@@ -38,3 +38,4 @@ uvloop
 xattr
 yt-dlp
 python-dotenv
+opencv-python
